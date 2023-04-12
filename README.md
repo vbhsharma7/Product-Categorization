@@ -1,4 +1,6 @@
 # Product-Categorization
+![image](https://user-images.githubusercontent.com/107554669/231459172-b690870a-c952-418d-acbf-e7b80e3bd30f.png)
+
 This product categorization project is a natural language processing (NLP) based machine learning project that aims to predict the category of a product based on its name. The project involves several key steps such as data preprocessing, feature extraction, model training, and evaluation.
 
 The data preprocessing step involves cleaning and preparing the raw data, which in this case is a list of product names and their corresponding categories. This step may involve tasks such as tokenization, stemming, and removing stop words.
